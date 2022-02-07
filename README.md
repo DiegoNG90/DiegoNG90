@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on microfrontends and microservices web apps.
-- 🌱 I’m learning Web3 and Solidity on one hand, and Angular and advance UX/UI CSS on the toher.
+- 🌱 I’m learning Web3 and Solidity on one hand, advance UX/UI CSS and testing with RTL and Jest.
 - 👯 I’m looking to collaborate on blockchain and dapp related development.
 
 <!--
