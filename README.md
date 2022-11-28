@@ -5,13 +5,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNG90)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on microfrontends and microservices web apps.
-- 🌱 I’m learning Web3 and Solidity on one hand, advance UX/UI CSS and testing with RTL and Jest.
-- 👯 I’m looking to collaborate on blockchain and dapp related development.
+- 🔭 I’m currently working on microfrontends and microservices web apps and also tutoring learning developers on JavaScript foundations
+
+- 🌱 I’m learning advance UX/UI CSS with styled-components,testing with RTL and Jest, React Query for query and caché managment..
+
+- 👯 I’m looking to mentor JR web developers on JS, React and/or NodeJS.
+
+- 💬 You can ask me about:
+  - RPG's (D&D and Anima Beyond Fantasy)
+  - Coffee and cocktails
+  - Boxing and NBA
 
 <!--
 - 🤔 I’m looking for help with infura a
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
