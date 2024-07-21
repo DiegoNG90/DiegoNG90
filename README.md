@@ -1,4 +1,7 @@
 ## I'm Diego, Fullstack web developer.
 - 🔭 I’m currently working on microfrontends and microservices web apps and also tutoring learning developers on JavaScript foundations
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoNG90)](https://github.com/DiegoNG90/github-readme-stats)
+<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=DiegoNG90&show_icons=true" />
+
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoNG90&layout=compact" />
