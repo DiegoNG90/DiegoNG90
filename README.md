@@ -38,6 +38,6 @@ Lo que más me atrae de este ecosistema es el potencial de los **contratos intel
 ## 🤝 Conectemos
 Si querés charlar sobre tecnología, blockchain o simplemente compartir ideas, ¡me encantaría conectar!  
 
-👉 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/diego-g%C3%A1ndara-8905b311b/))  
+👉 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/diego-g%C3%A1ndara-8905b311b/)  
 
 
